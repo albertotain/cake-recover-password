@@ -1,7 +1,5 @@
-# Token Verify plugin for CakePHP3
+# Token Verify plugin for CakePHP4
 
-[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
-[![Build Status](https://travis-ci.org/mosaxiv/cakephp-token-verify.svg?branch=master)](https://travis-ci.org/mosaxiv/cakephp-token-verify)
 
 JWT for mail authentication.  
 
@@ -17,7 +15,7 @@ one-time/url-safe/safety :+1:
 # Installation
 
 ```
-composer require albertotain/cakephp-token-verify
+composer require albertotain/cake-recover-password
 ```
 
 # Example
